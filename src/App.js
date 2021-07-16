@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Kuch nahi hai isme
+      Image-Gallery
     </div>
   );
 }
